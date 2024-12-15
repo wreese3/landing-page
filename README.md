@@ -14,6 +14,8 @@ My DIY Landing Page with these features.
 ## Sources
 * [Google Font](https://fonts.google.com/)
 * [Real Favicon Generator](https://realfavicongenerator.net/)
+* [CSS Style Sheet Resources](https://github.com/bradtraversy/design-resources-for-developers#html--css-templates)
+* [CSS Theme Used](https://themesfor.app/preview/abdera)
 
 ## Why Does This Exist? 
 Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.
