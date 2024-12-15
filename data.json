@@ -1,16 +1,22 @@
 {
-"myLinks": [
-    {
-    "name": "GitHub",
-    "url": "https://github.com/wreese3"
-    },
-    {
-    "name": "CodePen",
-    "url": "https://codepen.io/wreese3"
-    },
-    {
-    "name": "LinkedIn",
-    "url": "https://www.linkedin.com/in/wcharlesreese/"
-    }
+    "myLinks": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/wreese3",
+            "img": "assets/images/github_logo.png",
+            "description": "Here you can find all of my projects and contributions."
+        },
+        {
+            "name": "CodePen",
+            "url": "https://codepen.io/wreese3",
+            "img": "assets/images/codepen_logo.svg",
+            "description": "Here you can find some of my front-end project demos."
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/wcharlesreese/",
+            "img": "assets/images/linkedin_logo.png",
+            "description": "Here you can find my professional profile."
+        }
     ]
 }

@@ -11,6 +11,8 @@ My DIY Landing Page with these features.
 * Future proof, and easy to maintain. You own the code via GitHub
 * Secure, and scalable to many CDNs worldwide via Netlify, Vercel, etc.
 
+This landing page was used using a pre-existing theme, but the content was customized and made my own. I've used javascript to dynamically allow myself to add links as I like.
+
 ## Sources
 * [Google Font](https://fonts.google.com/)
 * [Real Favicon Generator](https://realfavicongenerator.net/)
