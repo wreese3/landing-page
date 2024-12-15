@@ -17,6 +17,12 @@
             "url": "https://www.linkedin.com/in/wcharlesreese/",
             "img": "assets/images/linkedin_logo.png",
             "description": "Here you can find my professional profile."
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/willreese3/",
+            "img": "assets/images/instagram_logo.png",
+            "description": "Here you can learn more about my life outside of work/school."
         }
     ]
 }
